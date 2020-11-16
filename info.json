@@ -1,0 +1,98 @@
+{
+    "info":[
+        {
+            "slno":"1",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"kg",
+            "department":"food",
+            "notes":"biriyani rice"
+        },
+
+        {
+            "slno":"2",
+            "name":"chilli",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"vegetable",
+            "notes":"green chilli"
+
+        },
+
+        {
+            "slno":"3",
+            "name":"Chicken",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"meat",
+            "notes":"none"
+
+        },
+
+        {
+            "slno":"4",
+            "name":"masala powders",
+            "quantity":"500",
+            "unit":"grams",
+            "department":"powder",
+            "notes":"chicken_masala,garam_masala"
+
+        },
+
+        {
+            "slno":"5",
+            "name":"Onion",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"vegetable",
+            "notes":"none"
+
+        },
+        {
+            "slno":"6",
+            "name":"tomato",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"vegetable",
+            "notes":"none"
+
+        },
+        {
+            "slno":"7",
+            "name":"pepper powder",
+            "quantity":"500",
+            "unit":"grams",
+            "department":"powder",
+            "notes":"masala_powder"
+
+        },
+        {
+            "slno":"8",
+            "name":"cashew nuts",
+            "quantity":"100",
+            "unit":"grams",
+            "department":"Seed/Nuts",
+            "notes":"none"
+
+        },
+        {
+            "slno":"9",
+            "name":"Ghee",
+            "quantity":"500",
+            "unit":"grams",
+            "department":"milk product",
+            "notes":"none"
+
+        },
+        {
+            "slno":"10",
+            "name":"corriander leaves",
+            "quantity":"10",
+            "unit":"grams",
+            "department":"leaves",
+            "notes":"none"
+
+        }
+
+    ]
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AJAX</title>
+    <style>
+    *{
+    
+    margin: 0px;
+    padding: 0px;
+
+    }
+    body {
+
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    header{
+    
+    background-color: rgb(2, 35, 48);
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    
+    }
+
+    #demo{
+        
+        color: white;
+        font-size: x-large;
+        text-align: center;
+        margin-top: 10%;
+
+    }
+    table{
+        align-content: center;
+        margin-left: 20%;
+        
+        
+        
+
+    }
+
+
+    tr{
+        border: 3px black solid;
+        font-size: large;
+        text-align: center;
+        padding: 10px;
+        color: white;
+    }
+    th{
+        border: 3px black solid;
+        font-size: x-large;
+        text-align: center;
+        padding: 10px;
+        color: white;
+        background-color: rgb(14, 93, 129);
+    }
+    td{
+        border: 3px black solid;
+        font-size: large;
+        text-align: center;
+        padding: 10px;
+        color: white;
+        background-color: rgb(53, 142, 148);
+    }
+    a:hover{
+        color: aqua;
+    }
+    button{
+        text-align: center;
+        align-items: center;
+        width: 420px;
+        height: 40px;
+        margin-left: 35%;
+        display: block;
+        color: #fff;
+        border: 0;
+        font-size: 16px;
+        outline: none;
+        background: linear-gradient(to right,#07500a,#062b30);
+        cursor: pointer;
+    }
+    button:hover{
+        background: linear-gradient(to right,#57f35d,#3ed8ec);
+        cursor: pointer;
+    }
+
+    
+    
+    </style>
+</head>
+<body background="bg31.jpg">
+    <header >
+        <h3>JSON Data to Table </h3>
+        <a style="text-decoration: none;" href="index.html"><h6>Reload</h6></a>
+        
+        
+    </header>
+
+    <div id="demo">
+        <h2> you can see the details here </h2>
+        <button onclick="ajax()">Click to see the tabular data</button>
+        
+    </div>
+    <div>
+        
+        
+    </div>
+
+
+    <script src="ajax.js"></script>
+</body>
+</html>
